@@ -81,13 +81,13 @@ export const sample_tags:any[] = [
 
 export const sample_users:any[] = [
   { name: 'Jane',
-    eamail: 'jane@foodmine.com',
+    email: 'jane@foodmine.com',
     password: '1234',
     address: 'Paris',
     isAdmin: true,
   },
   { name: 'John Deo',
-    eamail: 'john@foodmine.com',
+    email: 'john@foodmine.com',
     password: '1234',
     address: 'Billoir',
     isAdmin: false,
